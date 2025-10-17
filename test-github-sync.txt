@@ -1,0 +1,12 @@
+GitHub Sync Test
+================
+
+This file was created on October 16, 2025 to test the GitHub connection.
+
+If you can see this file in your GitHub repository at:
+https://github.com/suadpllana/ai-mobile-suadpllana
+
+Then the Replit <-> GitHub sync is working correctly!
+
+---
+Test timestamp: 2025-10-16 14:57 UTC
